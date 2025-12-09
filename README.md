@@ -26,9 +26,9 @@ Different hardware classes (e.g., DJI drones vs. HackRF SDRs vs. cheap clone dro
 ## Repository Structure
 
 ```
-├── uav_rid_gen2.py          # Data generation & simulation
-├── uav_rid_ml_rff2.py       # ML model training & evaluation
-├── detecting_spoofed_RID_using_RFF.pdf         # Research paper
+├── uav_rid_gen_v2.py          # Data generation & simulation
+├── uav_rid_ml_rff_v2.py       # ML model training & evaluation
+├── RID_Spoofing_Dectection.pdf         # Research paper
 └── README.md
 ```
 
